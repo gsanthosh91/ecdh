@@ -1,0 +1,22 @@
+{
+  "name": "ecdh-algorithm-react-native",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "noble-secp256k1": "1.2.10",
+    "react": "17.0.*",
+    "react-dom": "17.0.*",
+    "react-native-elliptic-curve-cryptography": "1.0.5",
+    "react-native-web": "0.17.0",
+    "react-scripts": "3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
